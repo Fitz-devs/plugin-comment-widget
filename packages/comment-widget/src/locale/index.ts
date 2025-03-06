@@ -8,6 +8,7 @@ const localizedTemplates = new Map([
   ['es', templates_es],
   ['zh-CN', templates_zh_CN],
   ['zh-TW', templates_zh_TW],
+    ['en', templates_en],
 ]);
 
 const { setLocale } = configureLocalization({
