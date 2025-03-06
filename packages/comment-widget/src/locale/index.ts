@@ -2,6 +2,7 @@ import { configureLocalization, LocaleModule } from '@lit/localize';
 import * as templates_es from '../generated/locales/es';
 import * as templates_zh_CN from '../generated/locales/zh-CN';
 import * as templates_zh_TW from '../generated/locales/zh-TW';
+import * as templates_en from '../generated/locales/en';
 import { allLocales, sourceLocale, targetLocales } from '../generated/locale-codes';
 
 const localizedTemplates = new Map([
