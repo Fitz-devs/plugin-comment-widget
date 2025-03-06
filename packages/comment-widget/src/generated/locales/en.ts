@@ -25,7 +25,7 @@
 's82665b2ffabc9c0a': `Website`,
 's84b033b2f7360187': `Please login or complete the information`,
 's98a5f7789c49dd3f': `Under review`,
-'s9f2ed66340f019c6': `Write a comment`,
+'s9f2ed66340f019c6': `TO comment`,
 'sa10fbe3fcd6ae148': `Join the reply`,
 'sa8dddacbaa66f8e0': `Please to login`,
 'sb3d4f79d9d8b71e5': `Submit comment`,
@@ -35,6 +35,6 @@
 'sd5e242ab9574958a': `Failed to comment, please try again later`,
 'sea7e567ed89dc0d7': `Select an emoji`,
 'sf3ff78cc329d3528': `Previous`,
-'sf77128b082955d42': `（or Loin）`,
+'sf77128b082955d42': `（or Login）`,
     };
   
